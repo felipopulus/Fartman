@@ -1,0 +1,13 @@
+*.exe
+*.bas
+*.frx
+*.idea
+*.frm
+*.dll
+*.vbp
+*.vbw
+*.log
+*.oca
+*.pyc
+libraries
+*.DS_Store
